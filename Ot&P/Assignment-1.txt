@@ -1,0 +1,6 @@
+Object Technology and Programming using JAVA(BCA- 307)
+Assigbnment - 1 (Due date - 29/04/2022)
+Q1. Explain the basic concept of OO approach?
+Q2. Explain application of OOPs?
+Q3. Explain Inheritance, Method overriding with super keyword?
+Q4. Comparison of Object Oriented and Procedure Oriented Approaches?
