@@ -1,0 +1,7 @@
+Object Technology and Programming using JAVA(BCA- 307)
+Assignment - 2 (Due date - 12/05/2022)
+Q1. Explain JVM concept?
+Q2. Explain all uses of this keyword with example?
+Q3. Explain final keyword and finalize method with code?
+Q4. Explain abstract keyword(method, class, etc.) with example?
+Q5. Explain basic features of JAVA and Arrays?
