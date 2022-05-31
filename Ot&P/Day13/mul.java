@@ -1,7 +1,7 @@
 package p1;
 import java.util.Scanner;
-class mul{
- 	void get(){
+public class mul{
+ 	public void get(){
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter number1:");
 		int a = s.nextInt();

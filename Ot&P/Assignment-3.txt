@@ -1,0 +1,6 @@
+St. Andrews Institute of Technology and Management, Gurgaon
+Assignment - 3 (Due date - 10/06/2022)
+Q1. Explain package with code?
+Q2. Explain how we achive Multiple Inheritance in JAVA?
+Q3. Explain abstract keyword(abstract methods, abstract class)?
+Q4. Explain exception handeling with all keywords?

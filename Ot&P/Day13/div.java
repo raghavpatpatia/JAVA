@@ -1,7 +1,7 @@
 package p1;
 import java.util.Scanner;
-class div{
- 	void get(){
+public class div{
+ 	public void get(){
 		try{
 			Scanner s = new Scanner(System.in);
 			System.out.println("Enter number1:");
